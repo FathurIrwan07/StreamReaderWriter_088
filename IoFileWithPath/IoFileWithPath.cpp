@@ -7,3 +7,8 @@ using namespace std;
 int main() {
 	string baris;
 	string namafile;
+
+	cout << "Masukan Nama File : ";
+	cin >> namafile;
+
+	
