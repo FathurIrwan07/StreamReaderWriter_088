@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pustaka file & exception handling", "pustaka file & exception handling\pustaka file & exception handling.vcxproj", "{4E3DB95E-2D80-4110-A3EB-8EE1E4432FF8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IoFileWithPath", "IoFileWithPath\IoFileWithPath.vcxproj", "{1F74D401-3AEA-48EF-A663-79BBED0C4016}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{4E3DB95E-2D80-4110-A3EB-8EE1E4432FF8}.Release|x64.Build.0 = Release|x64
 		{4E3DB95E-2D80-4110-A3EB-8EE1E4432FF8}.Release|x86.ActiveCfg = Release|Win32
 		{4E3DB95E-2D80-4110-A3EB-8EE1E4432FF8}.Release|x86.Build.0 = Release|Win32
+		{1F74D401-3AEA-48EF-A663-79BBED0C4016}.Debug|x64.ActiveCfg = Debug|x64
+		{1F74D401-3AEA-48EF-A663-79BBED0C4016}.Debug|x64.Build.0 = Debug|x64
+		{1F74D401-3AEA-48EF-A663-79BBED0C4016}.Debug|x86.ActiveCfg = Debug|Win32
+		{1F74D401-3AEA-48EF-A663-79BBED0C4016}.Debug|x86.Build.0 = Debug|Win32
+		{1F74D401-3AEA-48EF-A663-79BBED0C4016}.Release|x64.ActiveCfg = Release|x64
+		{1F74D401-3AEA-48EF-A663-79BBED0C4016}.Release|x64.Build.0 = Release|x64
+		{1F74D401-3AEA-48EF-A663-79BBED0C4016}.Release|x86.ActiveCfg = Release|Win32
+		{1F74D401-3AEA-48EF-A663-79BBED0C4016}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
